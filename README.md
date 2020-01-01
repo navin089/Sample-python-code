@@ -1,2 +1,3 @@
 # Sample-python-code
-here is few examples for getig started with python for beginners
+here are few examples getting started with python for beginners
+i have provided some of examples of python which will help in learning
